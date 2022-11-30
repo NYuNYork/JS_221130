@@ -1,0 +1,6 @@
+[1130/100501.523:ERROR:registration_protocol_win.cc(106)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
+[1130/100503.867:ERROR:registration_protocol_win.cc(106)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
+[1130/102147.576:ERROR:registration_protocol_win.cc(106)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
+[1130/102205.972:ERROR:registration_protocol_win.cc(106)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
+[1130/102647.765:ERROR:registration_protocol_win.cc(106)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
+[1130/102648.040:ERROR:registration_protocol_win.cc(106)] CreateFile: A rendszer nem találja a megadott fájlt. (0x2)
