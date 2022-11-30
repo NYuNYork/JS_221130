@@ -1,4 +1,5 @@
 let rnd = Math.floor(Math.random()*13)+1;
+
 let pic = "";
 if(rnd<10)
 {
